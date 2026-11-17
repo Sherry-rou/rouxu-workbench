@@ -4,6 +4,8 @@
 
 ![状态](https://img.shields.io/badge/version-1.0-7BAE8C) ![无依赖](https://img.shields.io/badge/dependencies-0-7BAE8C) ![PWA](https://img.shields.io/badge/PWA-offline--ready-7BAE8C)
 
+柔序工作台永久链接：https://sherry-rou.github.io/rouxu-workbench/
+
 ## 功能
 
 | 板块 | 说明 |
