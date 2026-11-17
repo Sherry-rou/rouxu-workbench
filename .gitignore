@@ -1,0 +1,20 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 依赖与构建产物（本项目实际上不需要，留作保险）
+node_modules/
+dist/
+build/
+
+# 本地临时文件
+*.log
+*.zip
+__pycache__/
+.workbuddy/

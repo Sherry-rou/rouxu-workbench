@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rouxu.workbench",
+      "sha256_cert_fingerprints": [
+        "3A:AF:FE:F0:FF:87:74:A3:E3:CB:2F:F9:7A:BD:E9:5D:04:52:F7:2E:9A:BF:8B:2A:D2:90:94:18:25:27:1E:62"
+      ]
+    }
+  }
+]
